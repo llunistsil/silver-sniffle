@@ -1,4 +1,4 @@
 const fun = () => {
-    console.log('hello world')
+    console.log('hello')
     console.log('SG 01')
 }
